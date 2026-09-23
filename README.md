@@ -41,7 +41,7 @@ extract/
 ├── sample_images/
 ├── scripts/
 ├── outputs/                   # generated: pipeline stages + report.json
-├── demo.html
+├── index.html
 ├── requirements.txt
 └── README.md
 ```
@@ -49,8 +49,8 @@ extract/
 ## 🚀 Getting started
 
 ```
-git clone https://github.com/FaizaEsha/extract.git
-cd extract
+git clone https://github.com/FaizaEsha/Extract.git
+cd Extract
 pip install -r requirements.txt
 
 # Tesseract's binary isn't a Python package — install it separately:
@@ -62,7 +62,7 @@ python3 src/main.py                 # runs both paths
 python3 scripts/generate_demo.py    # rebuilds demo.html
 ```
 
-Open `demo.html` in any browser — fully self-contained, works offline.
+Open `index.html` in any browser — fully self-contained, works offline.
 
 ## 🌱 About
 
