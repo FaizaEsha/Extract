@@ -64,12 +64,6 @@ python3 scripts/generate_demo.py    # rebuilds demo.html
 
 Open `demo.html` in any browser — fully self-contained, works offline.
 
-## ⚠️ Limitations
-
-- The detection sample is an easy case (isolated, well-lit subjects); a cluttered scene would test the 80% gate more.
-- PSM selection tries a fixed candidate list, not `--oem` variants or language packs.
-- Deskewing works for single text blocks; multi-column layouts would need a Hough-transform-based approach.
-
 ## 🌱 About
 
 Built as Project 4 (Image or Text Recognition — Basic) for the DecodeLabs AI Engineering Internship.
