@@ -64,10 +64,6 @@ python3 scripts/generate_demo.py    # rebuilds demo.html
 
 Open `index.html` in any browser — fully self-contained, works offline.
 
-## 🌱 About
-
-Built as Project 4 (Image or Text Recognition — Basic) for the DecodeLabs AI Engineering Internship.
-
 ## ✍️ Author
 
 **Faiza Ahmed Esha**
